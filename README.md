@@ -4,7 +4,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SK-BOTV1-Bot;Multi+Device+Whatsapp+Bot;Coded+By+SK HACKER" alt="Typing SVG" />
   </a> 
 </div> 
 
@@ -56,7 +56,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
+  <a href="https://youtu.be/8-iob3yLEPA?si=dheb8KgwHh4_e2DT">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
@@ -75,7 +75,7 @@ For further customization and setup guidance, click the button below:
 ### Join Us
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
+  <a href="https://t.me/skhacker567">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Vb5pqpiAO7RC8BlVO40H">
@@ -99,7 +99,7 @@ For further customization and setup guidance, click the button below:
 
 ## 📖 About
 
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+The SK HACKER WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
 It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
 
@@ -159,7 +159,7 @@ If you like this project, please give it a [⭐️ star on GitHub](https://githu
 
 ## Credits
 
-- [Professor](https://github.com/sadboy575)
+- [SK HACKER](https://github.com/sadboy575)
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [TechGod143](https://github.com/TechGod143) for pair code
 - [Dgxeon](https://github.com/Dgxeon) for pair code
