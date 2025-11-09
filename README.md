@@ -4,7 +4,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SK-BOTV1-Bot;Multi+Device+Whatsapp+Bot;Coded+By+SK HACKER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SK-BOTV1-Bot;Multi+Device+Whatsapp+Bot;Coded+By+SKHACKER" alt="Typing SVG" />
   </a> 
 </div> 
 
@@ -187,8 +187,8 @@ This project is licensed under the MIT License. However, you must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2024 Professor. All rights reserved.
+Copyright (c) 2024 SK HACKER. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
-- Other libraries as listed in package.json
+- Other libraries as listed in packaProfessorr
